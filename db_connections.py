@@ -20,7 +20,3 @@ class DatabaseConnections:
         user=self.username,
         password=self.password
       )
-
-
-
-
